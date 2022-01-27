@@ -1,0 +1,20 @@
+.basic {
+    background-color: #ff00006e;
+}
+
+#line2 {
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+
+.basic.cooler {
+    font-size: large;
+}
+
+#line4 {
+    background-color: chartreuse;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
