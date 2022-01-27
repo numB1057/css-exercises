@@ -1,0 +1,15 @@
+.button{
+    border-radius: 0px;
+    border-width: 1px;
+    border-color: rgb(190, 190, 190);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.first-btn {
+    color: white;
+    background-color: black;
+}
+
+.second-btn {
+    color: black;
+    background-color: yellow;
+}
