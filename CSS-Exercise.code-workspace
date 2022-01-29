@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "foundations/06-cascade-fix"
+		},
+		{
+			"path": "margin-and-padding/margin-and-padding-1"
 		}
 	]
 }
