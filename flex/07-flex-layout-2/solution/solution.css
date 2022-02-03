@@ -42,7 +42,7 @@ body {
   font-weight: 900;
 }
 
-.body {
+.content {
   flex: 1;
   display: flex;
 }

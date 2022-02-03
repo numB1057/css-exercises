@@ -13,13 +13,27 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  box-sizing: border-box;
 }
 
 .modal {
   background: white;
   width: 480px;
+  min-width: 445px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  padding: 20px;
+}
+
+.top-container {
+  display: flex;
+  align-content: center;
+}
+
+.header {
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 20px;
 }
 
 .icon {
@@ -46,11 +60,18 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-left: auto;
 }
 
 button {
   padding: 8px 16px;
   border-radius: 8px;
+  margin-left: 62px;
+}
+
+.text {
+  margin-left: 62px;
+  margin-bottom: 20px;
 }
 
 button.continue {
@@ -63,4 +84,5 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+  margin-left: 2px;
 }
