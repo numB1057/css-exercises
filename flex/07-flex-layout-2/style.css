@@ -33,7 +33,6 @@ body {
   align-items: center;
 }
 
-/*arrange le sidebar qui retrecit*/
 .sidebar {
   min-width: 300px;
   background: royalblue;
