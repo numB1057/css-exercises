@@ -52,7 +52,10 @@
 			"path": "../Altomax-Odin"
 		},
 		{
-			"path": "../layout-practice"
+			"path": "../foundation-javascript/part-1"
+		},
+		{
+			"path": "../foundation-javascript/part-1/test"
 		}
 	]
 }
